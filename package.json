@@ -1,0 +1,19 @@
+{
+  "name": "data-structure",
+  "version": "1.0.0",
+  "description": "Implementation of all data structure type in javascript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wasim-Abbas-khokhar/data-structure.git"
+  },
+  "author": "Wasim Abbas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wasim-Abbas-khokhar/data-structure/issues"
+  },
+  "homepage": "https://github.com/Wasim-Abbas-khokhar/data-structure#readme"
+}
